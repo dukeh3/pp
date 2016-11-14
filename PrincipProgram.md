@@ -1,26 +1,186 @@
-<h1>Partiprogram</h1>
+# Piratpartiets principdeklaration 3.0
 
-<h2>Immaterialrätt a.k.a. lagstiftade monopol</h2>
-All immaterialrätt avskaffas: upphovsrätt, patenträtt, varumärkesskydd, mönsterskydd. Upphovsrätten avskaffas dessutom som första riksdagsbeslut efter regeringsbildningen (inga utredningar, inga förhalningar).
+## Inledning
 
-Alla immaterialrättsrelaterade ekonomiska omfördelningar (t.ex. Privatkopieringsersättning) avskaffas.
+Piratpartiets värdegrund bygger på tre grundläggande värderingar; att den personliga
+integriteten måste skyddas, att kulturen måste släppas fri och att patent och privata
+monopol är skadliga för samhället.
 
-<h2>Internationella avtal</h2>
-Det finns ett par internationella avtal som handlar om upphovsrätt. Bernkonventionen för skydd av litterära och konstnärliga verk lämnar vi; vi deklarerar i Förenta nationerna att vi inte längre accepterar World Intellectual Property Organization som en auktoritet, och Världshandelsorganisationen struntar vi i (USA kommer fett att gå bananer, men det struntar vi också i). Eventuella Europeiska unionen-ramar ignorerar vi också (kan Frankrike, så kan vi. Finland agerade f.ö. föredömligt där med första vändan Infosoc-direktivet).
+Vi befinner oss i ett kontrollsamhälle där praktiskt taget alla registreras och
+övervakas. Det är inte förenligt med ett modernt rättssamhälle att alla medborgare
+utsätts för övervakning och därmed behandlas som misstänkta för brott. Demokratin
+förutsätter ett starkt skydd för den personliga integriteten.
 
-<h2>Begränsningar i avtalsrätt, mm</h2>
-Avtal som förbjuder, begränsar eller bestraffar informationsspridning (annat än personuppgift och uppgift om rikets säkerhet) blir utan verkan, och får dessutom inte förekomma öht i konsumentprodukter. Med "information" menas allt som kan representeras i digital form. Det blir kriminellt att med tekniska medel försöka hindra informationsspridning (annat än som tidigare).
- 
-<h2>Integritet och privatliv</h2>
-Posthemlighet upphöjs till generell kommunikationshemlighet; idag är den teknikspecifik (begränsad till post). Kommunikationsbärare (t.ex. Internetleverantör och telekomadministratörer) får inte använda data om envars kommunikation till något annat än att tekniskt underhålla kommunikationen. Privatliv definieras i Sveriges grundlagar|grundlagen och får inte kränkas eller bevakas av myndighet. Personuppgifter ägs av personen de handlar om, och han/hon har exklusiv rätt att bestämma hur de får användas, inklusive rätten att ändra sig utan förvarning eller process. Denna rätt kan inte avtalas bort.
+Upphovsrätten skapades för att gynna samhället genom att uppmuntra till skapande,
+utveckling och spridning av kultur. För att uppnå dessa mål krävs en balans mellan
+samhällets krav på tillgänglighet och spridning och upphovsmannens krav på
+erkännande och ersättning. Vi menar att dagens upphovsrätt är i obalans. Ett
+samhälle där kultur och kunskap är fri och åtkomlig för alla på lika villkor gynnar
+hela samhället. Vi hävdar att ett utbrett och systematiskt missbruk av dagens
+upphovsrätt aktivt motverkar dessa syften genom att det begränsar både utbudet av
+kultur och tillgången till kultur.
 
-Datalagringsdirektivet ska inte implementeras.
+Privata monopol är en av samhällets farligaste fiender. Detta därför att det leder till
+överpriser och stora dolda kostnader för medborgarna. Patent är officiellt
+sanktionerade monopol på idéer. Större företag kämpar febrilt om att slå rekord i
+antal patent, som de sedan ofta använder mot mindre konkurrenter för att inte dessa
+skall kunna konkurrera med det större företaget. Monopolistens mål är inte att hålla
+ett marknadsmässigt pris och konkurrera på lika villkor med kundnytta, pris och
+kvalitet. Tvärtom används patenträtten som en hävstång för att höja priset till en nivå
+som en fri och rättvis marknad aldrig skulle ha betalat och för att införa
+begränsningar som den aldrig skulle accepterat. Vi vill begränsa möjligheterna att
+skapa onödiga och skadliga monopolsituationer.
 
-<h2>Thomas Bodström</h2>
-Thomas Bodström får en alldeles egen avdelning i partiprogrammet. Eftersom han visat sig såpass farlig för personlig integritet så är det en del av Piratpartiets program att han inte ska få något nytt allmänt uppdrag, annat än att sälja korv utanför riksdagshuset. Det senare motiverar vi med att på den platsen kan han åtminstone inte göra någon skada.
+Varumärken är i första hand ett skydd för konsumenterna. Vi anser att
+varumärkesrätten i huvudsak fungerar bra idag, och föreslår inga förändringar.
 
-<h2>Ingen fördelningspolitik</h2>
-Vi tar aktivt inte ställning i fördelningspolitiska frågor, dvs. alla frågor som handlar om fördelning av resurser. Dessa kan upplevas som vänster-höger-frågor. Vi är varken gröna, blå eller röda; vi flyger Jolly Roger och ingen annan flagg.
+## Medborgerliga rättigheter och friheter
 
-<h2>Vill du ändra på något?</h2>
-Kom med i forumen! När valet närmar sig kommer vi att hålla en omröstning om vilka punkter som är viktigast för oss.
+Värnet om den enskildes privatliv är lagfäst i Sveriges grundlag. Ur denna
+grundläggande rätt springer flera andra viktiga mänskliga rättigheter som yttrandeoch
+åsiktsfrihet, informationsfrihet, rätten till kultur och rätten till personlig
+utveckling. Alla försök från den offentliga maktens sida att inskränka dessa
+rättigheter måste ifrågasättas och mötas av ett kraftfullt motstånd.
+
+Alla maktmedel, system och metoder som staten kan använda gentemot sina
+invånare måste befinna sig under ständig omprövning och granskning av folkvalda
+företrädare. När staten övervakar invånare som inte är misstänkta för brott utgör det
+en kränkning av den enskildes privatliv på ett i grunden oacceptabelt sätt. Varje
+medborgare skall tillförsäkras den anonymitetsrätt som idag förutsätts i grundlagen
+och den enskildes rätt att bestämma över sina egna personuppgifter måste stärkas.
+
+Brevhemligheten skall upphöjas till en generell kommunikationshemlighet. Det skall
+alltså bli förbjudet att avlyssna andras telefonsamtal, läsa annans e-post, SMS eller
+andra meddelanden på samma sätt som det idag är förbjudet att läsa någon annans
+brev, oavsett tekniken och vem som tillhandahåller den. Alla undantag från denna
+regel måste i varje enskilt fall förbli just ett väl motiverat undantag. Arbetsgivare skall
+endast för att säkerställa en teknisk funktionalitet eller i direkt samband med den
+anställdes arbetsuppgifter kunna få tillstånd att ta del av dennes meddelanden.
+
+Staten skall endast vid en konkret brottsmisstanke ha rätt att samla bevis och utföra
+övervakning av sina invånare. Staten skall i alla övriga fall utgå från att dess
+medborgare är oskyldiga och lämna dem ifred. Denna kommunikationshemlighet
+måste ges ett starkt skydd då staten vid ett flertal tillfällen visat sig inkapabel att på
+ett förtroendegivande sätt handha information som den kommit att förfoga över.
+
+_Vi vill upphäva datalagringsdirektivet och stärka skyddet för den enskildes
+privatliv._
+
+## Kulturen måste släppas fri
+
+När upphovsrätten ursprungligen infördes reglerade den bara en upphovsmans rätt
+att bli erkänd som skapare av ett verk. Senare utvidgades den till att omfatta även
+kommersiell kopiering av verk och nu inskränker den även privatpersoners och
+ideellt arbetande gruppers rättigheter. Vi menar att denna glidning innebär en för
+samhället oacceptabel utveckling. Idag har den ekonomiska och tekniska
+utvecklingen fått upphovsrätten helt ur balans och den har istället kommit att
+innebära orättvisa fördelar för ett fåtal stora marknadsaktörer på bekostnad av
+konsumenterna och samhället i stort. Miljontals klassiska verk, sånger, filmer och
+konstverk hålls gisslan i mediabolagens valv, inte tillräckligt efterfrågade av deras
+fokusgrupper för att det ska löna sig att ge ut dem men potentiellt för lukrativa för att
+släppas fria. Vi vill göra alla dessa verk fria och tillgängliga för envar, innan filmernas
+celluloid förstörs av tidens tand.
+
+_Immaterialrätterna är ett sätt att lagstifta om materiella egenskaper för
+immateriella värden. Idéer, kunskap och information är av naturen icke-exklusiva,
+deras gemensamma värde ligger i att de kan delas och spridas._
+
+Vi menar att upphovsrätten behöver återföras till sitt ursprung. Lagstiftningen skall
+ändras så att det görs helt klart att den endast reglerar användning och kopiering av
+verk i kommersiella sammanhang. Att dela med sig av kopior, eller på annat sätt
+sprida eller använda annans verk, skall aldrig vara förbjudet så länge det sker på
+ideell basis utan vinstmotiv.
+
+Den kommersiella delen av upphovsrätten skall finnas kvar som sådan, men även den
+behöver reformeras grundligt. Tanken bakom upphovsrätten har alltid varit att finna
+en balans mellan olika motstridiga intressen på den kommersiella arenan. Idag har
+den balansen gått fullständigt förlorad, och behöver återställas.
+
+Vi vill att skyddstiden, alltså ensamrätten att framställa kopior av verket för
+kommersiellt bruk, reduceras avsevärt till att gälla under exempelvis fem år från
+verkets publicering. Det kommersiella skyddsomfånget ska regleras så att det som
+grundregel skall vara fritt att skapa nya verk som bygger på andra, så kallade
+bearbetningar. I den mån det kan vara motiverat att göra undantag från denna
+grundregel, som till exempel för direkta översättningar av böcker eller användandet
+av ny musik i kommersiella filmer, skall dessa undantag vara uttryckligen
+uppräknade i lagen.
+
+_Vi vill skapa en rimlig och balanserad upphovsrätt._
+
+Allt icke-kommersiellt inhämtande, nyttjande, förädlande och spridning av kultur
+skall uttryckligen uppmuntras. Tekniker som har till syfte att begränsa konsumentens
+lagliga rätt att fritt kopiera och använda information och kultur, så kallade DRMtekniker,
+bör förbjudas. I fall där detta inte är praktiskt möjligt, eller ett förbud skulle
+innebära stora olägenheter för konsumenten, skall produkter som innehåller DRMteknik
+i vart fall förses med tydliga varningstexter.
+
+Avtalsklausuler som avser att hindra en sådan tillåten spridning av information skall
+förklaras ogiltiga och utan rättsverkan. Icke-kommersiell spridning av publicerad
+kultur, information eller kunskap - med undantag för privat information - får inte
+begränsas eller bestraffas. Som en logisk följd vill vi avskaffa
+privatkopieringsersättningen.
+
+_Vi vill skapa en kulturell allemansrätt._
+
+Patent och privata monopol skadar samhället
+
+Patent har många samhällsskadliga effekter. Medicinpatent bär skulden för att
+människor dör i sjukdomar som de skulle haft råd att behandla med läkemedel om
+inte patenten funnits, till att forskningsprioriteringarna snedvrids, och till en onödigt
+hög och växande läkemedelsnota i den rika världen.
+Patent på gener och liv, såsom exempelvis patenterade utsäden, leder till orimliga och
+skadliga konsekvenser. Mjukvarupatent hämmar den tekniska utvecklingen inom ITområdet,
+och utgör ett allvarligt hot mot Sveriges och Europas små och medelstora
+IT-företag.
+
+Patent påstås uppmuntra till innovation genom att skydda dem som uppfinner och
+investerar i nya uppfinningar och tillverkningsmetoder. Allt oftare används dock
+patenten främst av storföretag för att hindra mindre konkurrenter från att
+konkurrera på jämlika villkor. I stället för att patenten uppmuntrar till innovation,
+använder nu företag sina "patentmattor" i krigföring mot andra aktörer för att slippa
+konkurrens, ofta patent som innehavaren inte har någon avsikt att själv
+vidareutveckla.
+
+Vi anser att patenten har spelat ut sin roll och att de idag aktivt hindrar innovation
+och tillkomsten av ny kunskap. Dessutom ser man på alla produktområden och
+innovationer som inte kan patenteras att patenten egentligen inte alls behövs -
+drivkrafterna från att vara först på en marknad är fullt tillräckliga för att skapa
+innovation. Uppfinnare skall konkurrera med innovation, kundnytta, pris och kvalitet
+istället för att få förlänat ett statsunderstött monopol på kunskap. Att slippa avlöna
+arméer av patentadvokater frigör resurser som istället kan användas för att skapa
+verklig innovation och förbättra produkterna i en snabbare takt, vilket i slutändan
+kommer alla tillgodo.
+
+_Vi vill successivt avskaffa patentsystemet._
+
+Förutom genom patenträtten försöker stora företag skaffa sig monopolsitationer även
+på andra sätt. Genom att hemlighålla datalagringsformat och på andra sätt försvåra
+eller omöjliggöra interoperabilitet skapar de en inlåsningseffekt, som begränsar
+konkurrenternas möjligheter och sätter den fria marknaden ur spel. Detta leder till
+högre priser och lägre innovationstakt. När den offentliga sektorn gör upphandlingar
+eller producerar information måste detta ske på ett sätt som aktivt motarbetar
+bibehållandet eller uppkomsten av privata monopol på information, kunskap, idéer
+eller koncept.
+
+_Privata monopol ska bekämpas._
+
+## Sammanfattning
+
+Vi vill värna den enskilde medborgarens privatliv och grundläggande mänskliga
+rättigheter. När staten rutinmässigt övervakar och registrerar sina medborgares
+kommunikation leder det till maktmissbruk, ofrihet och rättsosäkerhet. Vi kräver en
+korrigering av dessa missförhållanden. Vi kräver rättvisa, frihet och demokrati åt
+medborgarna.
+
+Dagens immaterialrätt leder till skadliga monopol, att viktiga demokratiska
+grundvärden får lida, och att nyskapande av kultur och kunskap hindras från att nå
+medborgarna. Vi kräver en folkligt förankrad immaterialrätt som skall berika
+enskilda människors liv, möjliggöra ett sunt företagarklimat, skapa en allemansrätt
+för kunskap och kultur, och därmed gynna hela samhällets utveckling.
+Vårt arbete med detta är nu parlamentariskt inriktat och vi söker därmed mandat
+från medborgarna att representera dem i de frågor vi här tagit ställning för.
+
+**För att kunna enas som rörelse tar vi inte ställning i andra politiska
+frågor som inte har samband med de principer vi här deklarerat. Vi
+förenar oss kring värnet om rätten till ett privatliv och kritiken av
+upphovsrätt och patent.**
